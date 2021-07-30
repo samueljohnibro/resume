@@ -1,0 +1,43 @@
+#container {
+	
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 20px;
+
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 15px;
+	background-color: #CEE9C1;
+
+	text-align: center;
+	font-family: Monospace, Monaco;
+}
+
+#content-educatioinal {
+	font-size: 42px;
+}
+
+h1 {
+	font-size: 55px;
+	margin-bottom: -25px;
+}
+
+h2 {
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+h3 {
+	font-size: 20px;
+	margin-bottom: -10px;
+}
+
+h4 {
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+li {
+	font-size: 18px;
+	text-align: left;
+}
